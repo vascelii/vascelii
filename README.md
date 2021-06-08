@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vascelii
 - 👀 I’m interested in gamedave and CG 
 - 🌱 I’m currently learning UE4, maya, houdini, trying to make hair simulation in UE4 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate, maybe, someday I'll finish my demo and we can come up with something.
 - 📫 How to reach me vasikomog@gmail inst. vascelii , vk.com/vascelii .
 
 <!---
